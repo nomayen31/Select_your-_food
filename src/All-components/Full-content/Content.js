@@ -31,7 +31,7 @@ const Fullcontent = () => {
         <div className="logo">
          <img src={logo} alt="" />
         </div>
-        <h5 className="text-2xl my-8 font-bold text-4xl">Select Today's Food</h5>
+        <h5 className="text-2xl my-8 font-bold text-4xl">Select Today's Foods</h5>
 
 
           <div class="container">

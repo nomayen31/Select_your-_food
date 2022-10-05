@@ -90,7 +90,7 @@ const RightProfile = ({ cart }) => {
           </div>
         </div>
 
-        <h3 className=" mt-14 text-3xl font-bold ml-5">Challange Details</h3>
+        <h3 className=" mt-14 text-3xl font-bold ml-5">Challange Detail</h3>
 
         <div className="break exercise-time mt-5 ml-5 bg-violet-600 h-16 rounded-lg flex justify-evenly items-center">
           <h3 className="ml-2 font-bold text-md">Challage Time</h3>

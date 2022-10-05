@@ -11,7 +11,7 @@ const FoodCard = (props) => {
     <img className="cart-image" src={img} alt="" />
     </div>
     <div className="p-8 sm:p-9 md:p-7 xl:p-9">
-      <h3 className="text-2xl font-bold">Food Name: {name}</h3>
+      <h3 className="text-2xl font-bold">Foods Name: {name}</h3>
        
       <h5 className="text-lg">For Age: <b>{age}</b></h5>
       <h5 className="text-md mt-2">
